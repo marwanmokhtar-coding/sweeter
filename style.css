@@ -521,3 +521,24 @@ margin-right: 0;
     width: 39%;
   }
 }
+
+@media screen and (min-width:1300px) and (max-width:1500px){
+  header{
+    padding-left: 2%;
+    width: 23%;
+  }main{
+    width: 77%;
+    margin-left: 23%;
+  }.main-feed{
+width: 58%;
+margin-right: 0;
+  }.side-feed{
+    padding-right: 2%;
+    width: 39%;
+  }
+}@media (min-width:1501px)  and (max-width:1720px){
+  .side-feed{
+    padding-right: 20%;
+    width: 55%;
+  }
+}
